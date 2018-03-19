@@ -11,7 +11,7 @@ Available on NuGet: (Coming soon)
 ### Master Branch
 [![Build status](https://ci.appveyor.com/api/projects/status/q58rt0skqbrh6np5/branch/master?svg=true)](https://ci.appveyor.com/project/chriszumberge/zesoft-azure-mobile-models/branch/master)
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/cdc61a6ba4c1426caed3e88fe01a07a3)](https://www.codacy.com/app/chriszumberge/ZESoft.Azure.Mobile.Models?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=chriszumberge/ZESoft.Azure.Mobile.Models&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/bbf47c28455944479fe5cda3e293c97c)](https://www.codacy.com/app/chriszumberge/ZESoft.Azure.Mobile.Models?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=chriszumberge/ZESoft.Azure.Mobile.Models&amp;utm_campaign=Badge_Grade)
 
 CI NuGet Feed
 
